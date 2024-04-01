@@ -1,0 +1,9 @@
+fashion_mnist_data/
+.vscode
+__pycache__/
+cifar10_data/
+stanfordcars/
+models/
+data/
+videos/
+imgs/

@@ -1,0 +1,11 @@
+jupyter
+scikit-learn
+matplotlib
+numpy
+tqdm
+torch
+torchvision
+tensorboard
+optuna
+seaborn
+opencv-python
